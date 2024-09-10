@@ -17,6 +17,8 @@ Azkarapp is a mobile application developed using Flutter and Dart. This app is d
   
 - **Digital Sebha**: The app features a digital Sebha, allowing users to perform Tasbeeh. Users can select any prayer they wish to count, and the counter will keep track of their progress, with the data stored locally on their device.
 
+- **Responsive Design**: The app is fully responsive, adapting to various screen sizes and orientations, ensuring a smooth user experience across different devices.
+
 ## Screenshots
 
 Here are some screenshots of Azkarapp in action:
@@ -38,7 +40,3 @@ Here are some screenshots of Azkarapp in action:
 
 ### Number of Tasbeh Screen
 ![Number of Tasbeh Screen](https://github.com/user-attachments/assets/3107b57c-e82c-461e-86a0-165bb8797b46)
-
-
-
-
